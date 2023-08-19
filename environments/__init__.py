@@ -22,7 +22,7 @@ def select(name):
         args = parse_args(name)
         n = args["n"]
         bandit = agri_bandit(n)
-        return (real_means, bandit)
+        return (bandit)
     elif name.startswith( "polynomial{"):
         args = parse_args(name)
         n = args["n"]
