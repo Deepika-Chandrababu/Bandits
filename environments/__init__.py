@@ -18,6 +18,11 @@ def select(name):
         real_means = linear_means(n)
         bandit = linear_bandit(n, variance)
         return (real_means, bandit)
+    elif name.startswith( "agri{"):
+        args = parse_args(name)
+        n = args["n"]
+        bandit = agri_bandit(n)
+        return (real_means, bandit)
     elif name.startswith( "polynomial{"):
         args = parse_args(name)
         n = args["n"]
