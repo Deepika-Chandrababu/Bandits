@@ -4,6 +4,8 @@ from environments.poisson_olivier import poisson_oli_means,poisson_oli_bandit
 from environments.poisson_exp import poisson_exp_means,poisson_exp_bandit
 from environments.scaled_gaussian import scaled_gaussian_means,scaled_gaussian_bandit
 import environments.gaussian_jun_lin_var as gj_linvar
+from environments.agri_crop import agri_bandit
+import numpy as np 
 import ast
 
 def parse_args(s):
@@ -20,9 +22,9 @@ def select(name):
         return (real_means, bandit)
     elif name.startswith( "agri{"):
         args = parse_args(name)
-        n = args["n"]
-        bandit = agri_bandit(n)
-        return (bandit)
+        real_means = np.NaN
+        bandit = agri_bandit( )
+        return (real_means, bandit)
     elif name.startswith( "polynomial{"):
         args = parse_args(name)
         n = args["n"]
