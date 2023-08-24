@@ -1,7 +1,7 @@
 #!/bin/bash
 dir="C:\Users\Public\ouput\m=5"
 
-for r in {36..100}
+for r in {1..100}
 do
    
    python run_uniform.py -s $r -t 500 -m 5 -e "agri{ }" > $dir/uniform.$r.csv
