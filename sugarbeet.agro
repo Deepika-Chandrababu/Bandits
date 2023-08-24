@@ -1,0 +1,13 @@
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+    CropCalendar:
+        crop_name: 'sugarbeet'
+        variety_name: 'Sugarbeet_601'
+        crop_start_date: 2042-04-05
+        crop_start_type: sowing
+        crop_end_date: 2047-10-20
+        crop_end_type: maturity
+        max_duration: 365
+    TimedEvents: null
+    StateEvents: null
