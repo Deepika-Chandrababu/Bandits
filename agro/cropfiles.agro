@@ -1,0 +1,299 @@
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+    CropCalendar:
+        crop_name: 'sugar-beet'
+        variety_name: 'sugar-beet-601'
+        crop_start_date: 2042-04-05
+        crop_start_type: sowing
+        crop_end_date: 2047-10-20
+        crop_end_type: maturity
+        max_duration: 365
+    TimedEvents: null
+    StateEvents: null
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'barley'
+       variety_name: 'Spring_barley_301'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'cassava'
+       variety_name: 'Cassava_VanHeemst_1988'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+ 
+
+
+ 
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'chickpea'
+       variety_name: 'Chickpea_VanHeemst_1988'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+ 
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'cotton'
+       variety_name: 'Cotton_VanHeemst_1988'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'cowpea'
+       variety_name: 'Cowpea_VanHeemst_1988'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+ 
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'fababean'
+       variety_name: 'Faba_bean_801'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'groundnut'
+       variety_name: 'Groundnut_VanHeemst_1988'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: maize
+       variety_name: 'Maize_VanHeemst_1988'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'millet'
+       variety_name: 'Millet_VanHeemst_1988'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'mungbean'
+       variety_name: 'Mungbean_VanHeemst_1988'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'pigeonpea'
+       variety_name: 'Pigeonpea_VanHeemst_1988'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'potato'
+       variety_name: 'Potato_701'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'rapeseed'
+       variety_name: 'Oilseed_rape_1001'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'sorghum'
+       variety_name: 'Sorghum_VanHeemst_1988'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'soybean'
+       variety_name: 'Soybean_VanHeemst_1988'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'sugarcane'
+       variety_name: 'Sugarcane_VanHeemst_1988'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'sunflower'
+       variety_name: 'Sunflower_1101'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'sweetpotato'
+       variety_name: 'Sweetpotato_VanHeemst_1988'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'wheat'
+       variety_name: 'Winter_wheat_101'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
+
+Version: 1.0
+AgroManagement:
+- 2042-01-01:
+     CropCalendar:
+       crop_name: 'seed_onion'
+       variety_name:  'onion_agriadapt'
+       crop_start_date: 2042-01-01
+       crop_start_type: sowing
+       crop_end_date: 2047-12-20
+       crop_end_type: maturity
+       max_duration: 365
+     StateEvents: null
+     TimedEvents: null
